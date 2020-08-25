@@ -1,0 +1,1 @@
+web: gunicorn credit_approval.wsgi --log-file -
